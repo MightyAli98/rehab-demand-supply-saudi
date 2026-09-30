@@ -1,0 +1,53 @@
+region,service,people_in_need,moh_hospitals,people_per_hospital,national_people_per_hospital,gap_index,no_moh_service
+Makkah Al Mukarramah,physiotherapy,240024,36,6667.0,4056,1.64,False
+Ar Riyadh,physiotherapy,232466,40,5812.0,4056,1.43,False
+Eastern Region,physiotherapy,157484,32,4921.0,4056,1.21,False
+Aseer,physiotherapy,79947,24,3331.0,4056,0.82,False
+Al Madinah Al Munawwarah,physiotherapy,56198,11,5109.0,4056,1.26,False
+Jazan,physiotherapy,46994,21,2238.0,4056,0.55,False
+Tabuk,physiotherapy,41583,9,4620.0,4056,1.14,False
+Al Qaseem,physiotherapy,28816,13,2217.0,4056,0.55,False
+Al Jawf,physiotherapy,25078,11,2280.0,4056,0.56,False
+Najran,physiotherapy,17286,9,1921.0,4056,0.47,False
+Hail,physiotherapy,16734,13,1287.0,4056,0.32,False
+Northern Borders,physiotherapy,5486,8,686.0,4056,0.17,False
+Al Bahah,physiotherapy,4998,8,625.0,4056,0.15,False
+Makkah Al Mukarramah,occupational_therapy,240024,9,26669.0,14016,1.9,False
+Ar Riyadh,occupational_therapy,232466,15,15498.0,14016,1.11,False
+Eastern Region,occupational_therapy,157484,10,15748.0,14016,1.12,False
+Aseer,occupational_therapy,79947,3,26649.0,14016,1.9,False
+Al Madinah Al Munawwarah,occupational_therapy,56198,3,18733.0,14016,1.34,False
+Jazan,occupational_therapy,46994,4,11748.0,14016,0.84,False
+Tabuk,occupational_therapy,41583,2,20792.0,14016,1.48,False
+Al Qaseem,occupational_therapy,28816,6,4803.0,14016,0.34,False
+Al Jawf,occupational_therapy,25078,6,4180.0,14016,0.3,False
+Najran,occupational_therapy,17286,2,8643.0,14016,0.62,False
+Hail,occupational_therapy,16734,1,16734.0,14016,1.19,False
+Northern Borders,occupational_therapy,5486,4,1372.0,14016,0.1,False
+Al Bahah,occupational_therapy,4998,3,1666.0,14016,0.12,False
+Makkah Al Mukarramah,speech_therapy,19850,5,3970.0,2513,1.58,False
+Ar Riyadh,speech_therapy,24711,8,3089.0,2513,1.23,False
+Eastern Region,speech_therapy,9670,5,1934.0,2513,0.77,False
+Aseer,speech_therapy,7155,1,7155.0,2513,2.85,False
+Al Madinah Al Munawwarah,speech_therapy,3001,1,3001.0,2513,1.19,False
+Jazan,speech_therapy,3055,1,3055.0,2513,1.22,False
+Tabuk,speech_therapy,5123,2,2562.0,2513,1.02,False
+Al Qaseem,speech_therapy,5233,4,1308.0,2513,0.52,False
+Al Jawf,speech_therapy,2255,3,752.0,2513,0.3,False
+Najran,speech_therapy,1798,1,1798.0,2513,0.72,False
+Hail,speech_therapy,2612,0,,2513,,True
+Northern Borders,speech_therapy,338,3,113.0,2513,0.04,False
+Al Bahah,speech_therapy,638,0,,2513,,True
+Makkah Al Mukarramah,prosthetics_orthotics,96442,3,32147.0,24220,1.33,False
+Ar Riyadh,prosthetics_orthotics,106609,2,53304.0,24220,2.2,False
+Eastern Region,prosthetics_orthotics,66096,2,33048.0,24220,1.36,False
+Aseer,prosthetics_orthotics,32642,2,16321.0,24220,0.67,False
+Al Madinah Al Munawwarah,prosthetics_orthotics,26666,1,26666.0,24220,1.1,False
+Jazan,prosthetics_orthotics,22571,1,22571.0,24220,0.93,False
+Tabuk,prosthetics_orthotics,17481,0,,24220,,True
+Al Qaseem,prosthetics_orthotics,13460,2,6730.0,24220,0.28,False
+Al Jawf,prosthetics_orthotics,10824,1,10824.0,24220,0.45,False
+Najran,prosthetics_orthotics,8864,1,8864.0,24220,0.37,False
+Hail,prosthetics_orthotics,5107,1,5107.0,24220,0.21,False
+Northern Borders,prosthetics_orthotics,2854,1,2854.0,24220,0.12,False
+Al Bahah,prosthetics_orthotics,2119,0,,24220,,True

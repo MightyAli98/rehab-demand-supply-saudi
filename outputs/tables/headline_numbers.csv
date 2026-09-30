@@ -1,0 +1,10 @@
+headline,from_master,from_result_table,table,sources,match
+"Saudis with a disability, 2026 (mid)","953,094","953,094",q1_demand_2026,"D1, D2, D4",True
+"Range, 2026 (low - high)","684,252 - 1,221,938","684,252 - 1,221,938",q1_demand_2026,"D1, D2, D4",True
+Share in Makkah + Riyadh + Eastern,66.1%,66.1%,q1_demand_2026,"D1, D2",True
+Highest rate per 100k,"Tabuk (5,975)","Tabuk (5,975)",q1_demand_2026,"D1, D2",True
+Riyadh: people with mobility disability per MOH P&O hospital,"53,304","53,304",q2_supply_gap,"D2, D3",True
+"Tabuk: people with mobility disability, no MOH P&O","17,481 / P&O=0","17,481 / P&O=0",q2_supply_gap,"D2, D3",True
+Backtest mean abs. error (recent / long-term),0.28% / 0.32%,0.28% / 0.32%,backtest_2018_2022,D1,True
+Top 3 - volume view,"Makkah Al Mukarramah, Ar Riyadh, Eastern Region","Makkah Al Mukarramah, Ar Riyadh, Eastern Region",q4_scorecard,all,True
+Top 3 - rate view,"Tabuk, Makkah Al Mukarramah, Aseer","Tabuk, Makkah Al Mukarramah, Aseer",q4_scorecard,all,True

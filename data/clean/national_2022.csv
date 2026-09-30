@@ -1,0 +1,8 @@
+key,value,source,description,pdf_page
+rate_total_pct,4.2,Census 2022,"Disability + difficulty, all residents",13
+rate_saudi_pct,5.9,Census 2022,"Disability + difficulty, Saudi citizens",13
+rate_non_saudi_pct,1.8,Census 2022,"Disability + difficulty, non-Saudi residents",13
+mobility_share_adults_pct,56.2,Survey 2023,Mobility share of adults (18+) with one disability,17
+not_enrolled_rehab_pct,79.7,Survey 2023,Persons with disability (5+) not enrolled in a rehab centre,23
+reason_distance_pct,26.7,Survey 2023,Top reason for non-enrolment: distance,24
+reason_no_centres_pct,24.4,Survey 2023,Second reason for non-enrolment: lack of centres,24

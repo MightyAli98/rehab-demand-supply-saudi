@@ -1,0 +1,14 @@
+region,Mobility,Eyesight,Hearing,Speech & communication,leans_toward,leans_all_levels,stable,points_to
+Ar Riyadh,106609.0,56861.0,32847.0,24711.0,Speech & communication,Speech & communication,True,"speech therapy, communication (AAC) devices"
+Makkah Al Mukarramah,96442.0,78896.0,32955.0,19850.0,balanced,balanced,True,core mobility and physiotherapy offer
+Eastern Region,66096.0,53340.0,20441.0,9670.0,balanced,balanced,True,core mobility and physiotherapy offer
+Aseer,32642.0,26215.0,8091.0,7155.0,balanced,Speech & communication,False,core mobility and physiotherapy offer
+Al Madinah Al Munawwarah,26666.0,17618.0,7632.0,3001.0,balanced,Eyesight,False,core mobility and physiotherapy offer
+Jazan,22571.0,12486.0,6123.0,3055.0,balanced,balanced,True,core mobility and physiotherapy offer
+Tabuk,17481.0,10512.0,5501.0,5123.0,Speech & communication,"Speech & communication, Hearing",False,"speech therapy, communication (AAC) devices"
+Al Qaseem,13460.0,7158.0,2320.0,5233.0,Speech & communication,Speech & communication,True,"speech therapy, communication (AAC) devices"
+Al Jawf,10824.0,7516.0,3220.0,2255.0,national mix (no regional signal),national mix (no regional signal),,core mobility and physiotherapy offer
+Najran,8864.0,4437.0,1506.0,1798.0,"Mobility, Speech & communication",Mobility,False,"wheelchairs, walkers, crutches, prosthetics & orthotics, physiotherapy | speech therapy, communication (AAC) devices"
+Hail,5107.0,6528.0,1981.0,2612.0,"Speech & communication, Eyesight",Speech & communication,False,"speech therapy, communication (AAC) devices | low-vision aids, magnifiers, vision rehabilitation"
+Northern Borders,2854.0,1783.0,420.0,338.0,Mobility,Mobility,True,"wheelchairs, walkers, crutches, prosthetics & orthotics, physiotherapy"
+Al Bahah,2119.0,1468.0,386.0,638.0,Speech & communication,Speech & communication,True,"speech therapy, communication (AAC) devices"
