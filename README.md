@@ -100,4 +100,14 @@ PDF tables (D2–D5) were converted to Excel with Python (`pdfplumber`) and chec
 
 ## How to reproduce
 
-1. Copy the repository folder into Google Drive as
+1. Copy the repository folder into Google Drive as `MyDrive/cs2-regional-demand`.
+2. Open `notebooks/cs2_01_clean.ipynb` in Google Colab and select **Runtime → Run all**.
+3. Open `notebooks/cs2_02_analysis.ipynb` and select **Runtime → Run all**.
+
+Every check prints its result; the notebooks stop if any check fails.
+
+---
+
+**Dr. Muhammad Ali, DPT** – Independent Data Analyst · muhammadali17598@gmail.com · [GitHub](https://github.com/MightyAli98)
+
+Tools: Python (pandas, matplotlib), Google Colab, Power BI.
